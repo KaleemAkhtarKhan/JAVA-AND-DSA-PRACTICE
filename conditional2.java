@@ -5,6 +5,7 @@ public class conditional2 {
     public static void main(String[] args) {
          int age ;
         Scanner sc = new Scanner (System.in);
+        System.out.println("enter your age :");
         age = sc.nextInt();
         sc.close();
         if (age>=18) {
