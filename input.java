@@ -14,6 +14,7 @@ public class input {
         // for printing full line 
         String name = Sc.nextLine();
         System.out.println(name);
+        Sc.close();
         
     }
 }

@@ -5,6 +5,7 @@ public class PQ3variable {
         float pencil = sc.nextFloat();
         float pen = sc.nextFloat();
         float eraser = sc.nextFloat();
+        sc.close();
         float bil = pencil+pen+eraser;
         System.out.println( "bill " +bil);
         double gst = bil*18/100;

@@ -6,6 +6,7 @@ public class productofab {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
         int productofab = a*b;
         System.out.println(productofab);
     }
