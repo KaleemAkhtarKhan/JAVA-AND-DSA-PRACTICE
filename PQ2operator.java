@@ -6,6 +6,6 @@ public class PQ2operator {
         y -=z;
         z /= (x + y);
         System.out.println(x + " " + y +" " +z);
-
+        
     }
 }
