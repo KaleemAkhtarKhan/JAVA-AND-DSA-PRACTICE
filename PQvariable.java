@@ -7,6 +7,6 @@ public class PQvariable {
         int c = sc.nextInt();
         float sum = a+b+c;
         float average = sum/3;
-        System.out.println(average);
+        System.out.println( "the average is : " + average);
     }
 }
