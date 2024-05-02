@@ -6,9 +6,10 @@ public class PQ4loop {
         int num = sc.nextInt();
         sc.close();
         int i;
+        System.out.println("the multiplication table of " +num );
         for (i = 1; i <= 10; i++){
             
             System.out.println( num+ "*" + i + "="+num*i);
-        }System.out.println("the multiplication table of " +num );
+        }
     }
 }
