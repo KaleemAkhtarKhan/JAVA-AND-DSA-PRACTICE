@@ -14,7 +14,7 @@ public class function{
         int b = sc.nextInt();
        int  sum = claculatesum(a,b);
         System.out.println("sum is :" +sum);
-        claculatesum(a,b);
+        
         sc.close();
     }
 }
