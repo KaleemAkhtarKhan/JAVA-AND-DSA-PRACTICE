@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class factorial {
-    public static int factorial(int n){
+    public static int fact(int n){
         int f = 1;
         for( int i = 1; i <=n; i++){
             f = f *i;
@@ -12,7 +12,7 @@ public class factorial {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter your number:");
         int number = sc.nextInt();
-        int fact = factorial(number);
+        int fact = fact(number);
         System.out.println("factorial is :" +fact);
         sc.close();
     
