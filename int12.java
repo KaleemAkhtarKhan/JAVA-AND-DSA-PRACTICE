@@ -10,6 +10,6 @@ public class int12 {
             System.out.println(i);
         }
 
-
+        sc.close();
     }
 }
