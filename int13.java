@@ -12,6 +12,7 @@ public class int13 {
            
         }
          System.out.println(sum);
+
         sc.close();
 
     }
