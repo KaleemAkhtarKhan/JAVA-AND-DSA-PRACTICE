@@ -7,13 +7,14 @@ public class int13 {
         Scanner sc = new Scanner (System.in);
         System.out.print("enter the number :");
         int num = sc.nextInt();
+        sc.close();
         for(i=1; i<=num; i++){
             sum = sum+i;
            
         }
          System.out.println(sum);
 
-        sc.close();
+        
 
     }
 }
