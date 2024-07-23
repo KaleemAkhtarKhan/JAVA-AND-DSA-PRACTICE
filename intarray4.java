@@ -11,7 +11,6 @@ public class intarray4 {
         
     }
 
-
     public static void main(String[] args) {
         int num[] = {2, 4, 6, 8, 10}; 
         pairs(num);
