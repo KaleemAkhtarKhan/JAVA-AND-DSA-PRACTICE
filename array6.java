@@ -21,7 +21,7 @@ public class array6 {
                     maxsum= currentsum;
                 }
             }
-           
+        
         }
         System.out.print("max sum of sub array is :" +maxsum);
     }
