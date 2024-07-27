@@ -9,7 +9,6 @@ public class PQarray {
         return -1;
     }
 
-
     public static void main(String[] args) {
         String fruits[]= {"coca", "samosha" , "chole bhature", "chips"};
         String key = "chips";
