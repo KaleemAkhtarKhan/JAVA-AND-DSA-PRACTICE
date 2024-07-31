@@ -7,11 +7,7 @@ public class int38 {
             }
         }
         return largest;
-
      }
-
-
-
 
     public static void main(String[] args) {
         int num [] = {1, 2, 3, 6, 5};
