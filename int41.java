@@ -12,7 +12,6 @@ public class int41 {
                    
                 }
                 System.out.println(currentsum);
-              
             
             }
             if( maxsum<currentsum){
