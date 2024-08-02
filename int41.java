@@ -16,7 +16,7 @@ public class int41 {
             if( maxsum<currentsum){
                 maxsum= currentsum;
             }
-            
+
             
         }
         System.out.println("the maximum sum of array is :" +maxsum);
