@@ -17,7 +17,7 @@ public class int41 {
                 maxsum= currentsum;
             }
 
-            
+        
         }
         System.out.println("the maximum sum of array is :" +maxsum);
         
