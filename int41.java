@@ -4,15 +4,19 @@ public class int41 {
         int currentsum = 0;
         int maxsum = Integer.MIN_VALUE;
         for(int i = 0; i<num.length; i++){
+            
+
             for(int j = i; j<num.length; j++){
+                currentsum = 0;
                 
                 for(int k = i; k<=j;  k++){
                     // System.out.print(num[k] +" ");
                     currentsum += num[k];
                    
                 }
-                System.out.println(currentsum);
+                
             }
+            System.out.println(currentsum);
             if( maxsum<currentsum){
                 maxsum= currentsum;
             }
