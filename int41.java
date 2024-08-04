@@ -12,7 +12,6 @@ public class int41 {
                 for(int k = i; k<=j;  k++){
                     // System.out.print(num[k] +" ");
                     currentsum += num[k];
-                   
                 }
                 
             }
