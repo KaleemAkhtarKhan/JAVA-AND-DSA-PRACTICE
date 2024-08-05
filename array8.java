@@ -28,7 +28,6 @@ public class array8 {
         }
 
 
-
     public static void main(String[] args) {
         int num [] = {1, -2, 6, -1, 3};
         subarrysum(num);
