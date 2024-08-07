@@ -14,7 +14,6 @@ public class array11 {
         for (int i=height.length-2; i>=0; i--){
             rightmax[i] = Math.max(height[i], rightmax[i+1]);
         }
-      
 
         // loop
         int trapedwater = 0;
