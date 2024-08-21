@@ -18,5 +18,6 @@ public class int46 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
