@@ -15,6 +15,7 @@ public class int56 {
                 }
             }
             System.out.println();
+            
           }
           
         }
