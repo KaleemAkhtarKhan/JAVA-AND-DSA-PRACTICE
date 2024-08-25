@@ -26,7 +26,7 @@ public class array11 {
             trapedwater += waterlevel - height[i];
         }
         return trapedwater;
-        
+    
         
     }
 
