@@ -1,5 +1,16 @@
+import java.util.Scanner;
+
 public class string1{
 public static void main(String[] args) {
-    System.out.println("kaleem khan");
+    // string input in java
+    Scanner sc = new Scanner (System.in);
+    System.out.print("enter the first name :");
+    String firstname = sc.next();
+    System.out.print("enter the lastname:");
+    String lastname = sc.next();
+    // concatanation of string (addition of multiple string )
+    String fullname = firstname + " "+ lastname;
+    System.out.println(fullname);
+
 }
 }
