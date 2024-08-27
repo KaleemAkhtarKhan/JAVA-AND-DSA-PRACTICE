@@ -13,7 +13,7 @@ public class string4 {
                 x= x-1;
             }else{
                 x= x+1;
-            }
+            }  
         }
         int X2 = x*x;
         int Y2 = y*y;
