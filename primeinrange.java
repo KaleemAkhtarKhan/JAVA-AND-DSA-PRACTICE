@@ -13,13 +13,15 @@ public class primeinrange {
         }  return true;
       }
       public static void inrangeprime(int n){
+        int count = 0;
         for(int i = 2; i<=n; i++){
             if(isprime(i)){
                 System.out.print(+i+ " ");
+                count++;
             }
-            // System.out.println();
 
         } 
+        System.out.println("the number of prime in  range is :" +count);
       }
       public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);

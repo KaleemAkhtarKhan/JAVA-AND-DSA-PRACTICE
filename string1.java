@@ -11,6 +11,7 @@ public static void main(String[] args) {
     // concatanation of string (addition of multiple string )
     String fullname = firstname + " "+ lastname;
     System.out.println(fullname);
+    sc.close();
 
 }
 }
