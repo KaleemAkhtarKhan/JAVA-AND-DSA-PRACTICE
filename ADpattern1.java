@@ -13,7 +13,6 @@ public class ADpattern1 {
             System.out.println();
         } 
         
-
     }
 
 
