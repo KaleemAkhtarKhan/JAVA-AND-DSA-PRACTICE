@@ -9,6 +9,7 @@ public class gfg1 {
             System.out.print("grater");
         }
     }
+    
 
 
     public static void main(String[] args) {
