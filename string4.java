@@ -19,7 +19,7 @@ public class string4 {
         int Y2 = y*y;
         // formula for calculating direction 
         Float result =(float) Math.sqrt(X2+Y2);
-        return result;
+        return result; 
     }
     public static void main(String[] args) {
         String path = "WNEENESENNN";
