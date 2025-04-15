@@ -20,6 +20,7 @@ public class string4 {
         // formula for calculating direction 
         Float result =(float) Math.sqrt(X2+Y2);
         return result;
+        
     }
     public static void main(String[] args) {
         String path = "WNEENESENNN";
