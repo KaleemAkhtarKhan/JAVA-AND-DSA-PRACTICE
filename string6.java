@@ -10,7 +10,7 @@ public class string6 {
                 sb.append(Character.toUpperCase(word.charAt(i)));
 
             }else{
-                sb.append(word.charAt(i));
+                sb.append(word.charAt(i)); 
             }
         }
         return sb.toString();
