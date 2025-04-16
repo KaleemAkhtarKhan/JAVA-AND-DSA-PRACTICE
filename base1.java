@@ -6,5 +6,6 @@ public class base1 {
         System.out.println("enter the disire number u want to print :");
         int num = sc.nextInt();
         System.out.println(num);
+        sc.close();
     }
 }
