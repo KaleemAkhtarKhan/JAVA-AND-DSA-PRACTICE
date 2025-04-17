@@ -4,14 +4,10 @@ public class array1 {
         for(int i=0; i<num.length; i++){
             if(num[i]==key){
                 return i;
-            }
-            
-            
+            } 
         }
         return -1;
     }
-
-
 
     public static void main(String[] args) {
         
