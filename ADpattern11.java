@@ -20,6 +20,6 @@ public class ADpattern11 {
     }
 
     public static void main(String[] args) {
-        palindromicNum(10);
+        palindromicNum(5);
     }
 }
