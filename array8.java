@@ -9,9 +9,7 @@ public class array8 {
               prifix[0] = num[0];
             for (int i= 1; i<prifix.length; i++){
                 prifix[i]= prifix[i-1] + num[i];
-            }
-              
-                 
+            }      
             for (int i = 0; i<num.length; i++){
               
                     for(int j=1; j<num.length; j++){
@@ -29,7 +27,7 @@ public class array8 {
 
 
     public static void main(String[] args) {
-        int num [] = {1, -2, 6, -1, 3};
+        int num [] = {2,4,6,8,10};
         subarrysum(num);
     }
 }
