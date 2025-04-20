@@ -1,7 +1,7 @@
 public class base14 {
     // kadane's algorithm
     public static void main(String[] args) {
-        int num []= {2,4,6,8,10};
+        int num []= {-2, -3, 4, -1, -2, 1, 5, -3};
         int currentsum = 0; 
         int maxsum= Integer.MIN_VALUE;
         for(int i = 0; i<num.length; i++){
