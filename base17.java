@@ -16,6 +16,7 @@ public class base17 {
         }
         // calculation  of water levels 
         
+        
         int trapedWter =0;
         for(int i=0; i<height.length; i++){
            int waterlevel = Math.min(leftmax[i], rightmax[i]);
