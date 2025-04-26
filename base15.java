@@ -10,6 +10,6 @@ public class base15 {
             }
             maxsum= Math.max(maxsum, currentsum);
         }
-        System.out.println("the max sum the array is :" +maxsum);
+        System.out.println("the max sum the array is  :" +maxsum);
     }
 }
