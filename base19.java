@@ -4,7 +4,6 @@ public class base19 {
         int profit = 0;
         for(int i = 0; i<prices.length; i++){
             profit = 0;
-            
         }
     }
     public static void main(String[] args) {
